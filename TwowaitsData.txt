@@ -1,0 +1,13 @@
+A palindrome is a word, number, phrase, or other sequence of characters which reads the same backward as forward, such as madam, racecar, or the number 10801. Sentence-length palindromes may be written when allowances are made for adjustments to capital letters, punctuation, and word dividers, such as "A man, a plan, a canal, Panama!", "Was it a car or a cat I saw?" or "No 'x' in Nixon".
+
+Palindromes date back at least to 79 AD, as a palindrome was found as a graffito at Herculaneum, a city buried by ash in that year. This palindrome, called the Sator Square, consists of a sentence written in Latin: "Sator Arepo Tenet Opera Rotas" ("The sower Arepo holds with effort the wheels"). It is remarkable for the fact that the first letters of each word form the first word, the second letters form the second word, and so forth. Hence, it can be arranged into a word square that reads in four different ways: horizontally or vertically from either top left to bottom right or bottom right to top left. As such, they can be referred to as palindromatic.
+
+Some well-known English palindromes are, "Able was I ere I saw Elba", "A man, a plan, a canal â€“ Panama", "Madam, I'm Adam" and "Never odd or even".
+
+English palindromes of notable length include mathematician Peter Hilton's "Doc, note: I dissent. A fast never prevents a fatness. I diet on cod" and Scottish poet Alastair Reid's "T. Eliot, top bard, notes putrid tang emanating, is sad; I'd assign it a name: gnat dirt upset on drab pot toilet."
+
+The most familiar palindromes in English are character-unit palindromes. The characters read the same backward as forward. Some examples of palindromic words are redivider, deified, civic, radar, level, rotor, kayak, reviver, racecar, redder, madam, and refer.
+
+There are also word-unit palindromes in which the unit of reversal is the word ("Is it crazy how saying sentences backwards creates backwards sentences saying how crazy it is?"). Word-unit palindromes were made popular in the recreational linguistics community by J. A. Lindon in the 1960s. Occasional examples in English were created in the 19th century. Several in French and Latin date to the Middle Ages.
+
+There are also line-unit palindromes.
